@@ -4,7 +4,7 @@ Guia prático
 
 ### Instalação
 
-...
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 # Comandos
 
